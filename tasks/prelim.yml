@@ -8,6 +8,7 @@
       name:
           - python3-libselinux
           - python3-rpm
+          - authselect
       state: present
 
 - name: "PRELIM | AUDIT | Interactive Users"
